@@ -1,2 +1,2 @@
 # Odin projects
-this is my first project with Odin's guidaince. the name is Odin recipes. i am so excite and look foward to the knowledge and experience
+This is my first project with Odin's guidance. The name is Odin recipes. i am so excited and look forward to the knowledge and experience
