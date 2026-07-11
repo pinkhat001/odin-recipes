@@ -3,7 +3,7 @@
 This is my first project through The Odin Project's curriculum. 
 
 ## About
-A simple recipe website built with pure HTML, showcasing Yoruba dishes — Ekuru, Jollof Rice, and Amala.
+A simple recipe website built with pure HTML, showcasing Yoruba dishes: Ekuru, Jollof Rice, and Amala.
 
 ## Live Demo
 🔗 https://pinkhat001.github.io/odin-recipes/
